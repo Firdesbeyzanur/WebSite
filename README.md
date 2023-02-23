@@ -17,6 +17,21 @@ $ npm run start
 $ npm run generate
 ```
 
+![image](https://user-images.githubusercontent.com/99497565/220835798-f5cb63dd-fdc8-4334-a919-3b77dd2bc87b.png)
+
+![image](https://user-images.githubusercontent.com/99497565/220835844-8124fd1a-aabb-4946-95fa-d4772b943136.png)
+
+![image](https://user-images.githubusercontent.com/99497565/220835891-a4893b3b-c298-40f4-8909-f74ada2b4733.png)
+
+![image](https://user-images.githubusercontent.com/99497565/220836031-e609c8eb-d898-4947-87b9-98bdd89b5a6c.png)
+
+![image](https://user-images.githubusercontent.com/99497565/220836076-ab962cb4-c68d-4507-bd71-aade4bddd462.png)
+
+![image](https://user-images.githubusercontent.com/99497565/220836115-ef1b8b35-662d-4d3c-a6c5-78a88edc1431.png)
+
+![image](https://user-images.githubusercontent.com/99497565/220836157-ff26d978-443a-4d7c-b55f-1940d86db3d0.png)
+
+
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
 ## Special Directories
